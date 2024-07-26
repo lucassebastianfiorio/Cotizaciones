@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Cotizaciones
-Description: Muestra cotizaciones específicas de dólares, real, y guaraní.
+Description: Muestra cotizaciones específicas de dólares y reales. Ambos oficiales y blue con respecto al peso argentino.
 Version: 1.6
 Author: Lucas S. Fiorio
 */
